@@ -1,0 +1,81 @@
+:root {
+  /* ================= Brand Palette ================= */
+  --bg-primary: #FBF6EC;         /* Deep holy ivory */
+  --bg-surface: #FFFFFF;         /* Pure card surface */
+  --bg-secondary: #F4EBD9;       /* Warm temple cream */
+  --bg-subtle: #FAF2E3;          /* Softest highlight */
+  --bg-dark: #380E0D;            /* Sacred sanctuary maroon */
+
+  /* Royal Maroon */
+  --maroon: #5B1A18;             /* Primary devotional maroon */
+  --maroon-dark: #3F100E;        /* Dark contrast maroon */
+  --maroon-light: #7E2623;       /* Hover state */
+  --maroon-soft: rgba(91, 26, 24, 0.08);
+
+  /* Saffron Gold */
+  --gold: #C8932E;               /* Royal Vrindavan gold */
+  --gold-light: #E2B258;         /* Shimmer highlight */
+  --gold-dark: #9A6C18;          /* Burnished antique gold */
+  --gold-soft: rgba(200, 147, 46, 0.12);
+  --gold-gradient: linear-gradient(135deg, #ECC876 0%, #C8932E 50%, #9A6C18 100%);
+  --gold-glow: 0 0 20px rgba(200, 147, 46, 0.25);
+
+  /* Yamuna Teal */
+  --teal: #1F4E4A;               /* Sacred Yamuna water teal */
+  --teal-light: #2A6863;
+  --teal-soft: rgba(31, 78, 74, 0.1);
+
+  /* Official WhatsApp Green */
+  --whatsapp-green: #25D366;
+  --whatsapp-hover: #20BA59;
+
+  /* Text Colors (Soft Charcoal, Never Pure Black - WCAG AA compliant) */
+  --text-main: #3A2F2A;          /* Soft charcoal */
+  --text-muted: #6B5F58;         /* Secondary soft slate */
+  --text-light: #8E827A;         /* Subdued caption */
+  --text-inverse: #FFFFFF;       /* White text on dark/maroon */
+
+  /* Borders & Dividers */
+  --border-gold: rgba(200, 147, 46, 0.35);
+  --border-subtle: rgba(91, 26, 24, 0.1);
+  --border-card: rgba(200, 147, 46, 0.22);
+
+  /* Shadows */
+  --shadow-xs: 0 2px 6px rgba(91, 26, 24, 0.04);
+  --shadow-sm: 0 4px 12px rgba(91, 26, 24, 0.06);
+  --shadow-md: 0 8px 24px -4px rgba(91, 26, 24, 0.08), 0 2px 6px rgba(200, 147, 46, 0.06);
+  --shadow-lg: 0 16px 40px -8px rgba(91, 26, 24, 0.15), 0 4px 14px rgba(200, 147, 46, 0.08);
+  --shadow-floating: 0 14px 32px rgba(91, 26, 24, 0.2);
+
+  /* Typography Scale (Fluid clamp) */
+  --font-heading: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-devanagari: 'Noto Serif Devanagari', 'Cormorant Garamond', serif;
+
+  --fs-hero: clamp(2.1rem, 8vw, 3.6rem);
+  --fs-h1: clamp(1.8rem, 6vw, 2.8rem);
+  --fs-h2: clamp(1.5rem, 5vw, 2.2rem);
+  --fs-h3: clamp(1.15rem, 4vw, 1.4rem);
+  --fs-body: 1rem;
+  --fs-small: 0.8rem;
+  --fs-eyebrow: 0.72rem;
+
+  /* Border Radii */
+  --radius-xs: 6px;
+  --radius-sm: 10px;
+  --radius-md: 16px;
+  --radius-lg: 20px;
+  --radius-full: 9999px;
+
+  /* Layout & Spacing */
+  --header-height: 58px;         /* Compact 56-60px for mobile */
+  --bottom-bar-height: 60px;     /* Mobile bottom thumb bar */
+  --container-max: 1200px;
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+
+  /* Animation Timings */
+  --transition-fast: 160ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: 260ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-spring: 400ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
