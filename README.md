@@ -13,7 +13,7 @@ Shri Shyama Shringar Kunj is a sacred devotional boutique operating from Vrindav
 - **Divine Bhakti Kits** (Nitya Thakurji Seva Kit, Utsav Hampers)
 - **Customized Deity Poshak** (Bespoke zardozi, silk, and winter velvet deity garments for Laddu Gopal & Yugal Sarkar)
 
-Orders are funneled smoothly into WhatsApp (`+91 93892 04429`) with pre-formatted order summaries, customer address details, and custom sizing notes.
+Orders are funneled smoothly into WhatsApp (`+91 75051 50687`) with pre-formatted order summaries, customer address details, and custom sizing notes.
 
 ---
 

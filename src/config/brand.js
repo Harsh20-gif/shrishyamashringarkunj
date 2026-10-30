@@ -8,8 +8,8 @@ export const BRAND = {
   subtitle: "Handcrafted Devotional Treasures from the Divine Land of Shri Radha Rani",
   
   // WhatsApp Business Contact
-  whatsappNumber: "919389204429", // Format: country code + 10 digits without + or spaces
-  whatsappDisplay: "+91 93892 04429",
+  whatsappNumber: "917505150687", // Format: country code + 10 digits without + or spaces
+  whatsappDisplay: "+91 75051 50687",
   
   // Social Media
   instagramHandle: "@shrishyamashringarkunj",
