@@ -12,8 +12,8 @@ export const BRAND = {
   whatsappDisplay: "+91 75051 50687",
   
   // Social Media
-  instagramHandle: "@shrishyamashringarkunj",
-  instagramUrl: "https://www.instagram.com/shrishyamashringarkunj",
+  instagramHandle: "@harsh1bhardwaj",
+  instagramUrl: "https://www.instagram.com/harsh1bhardwaj/",
 
   // Location & Legacy
   location: "Vrindavan Dham, Mathura, Uttar Pradesh, India",

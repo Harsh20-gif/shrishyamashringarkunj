@@ -292,7 +292,7 @@ export default function Header() {
               href={BRAND.instagramUrl}
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="Follow Shri Hit Tulsi on Instagram"
+              aria-label={`Follow ${BRAND.name} on Instagram`}
               style={{
                 width: '40px',
                 height: '40px',
@@ -306,7 +306,7 @@ export default function Header() {
                 transition: 'all 0.2s ease'
               }}
               className="desktop-icon-btn"
-              title="Instagram @shrihittulsi"
+              title={`Instagram ${BRAND.instagramHandle}`}
             >
               <FaInstagram size={18} />
             </a>

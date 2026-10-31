@@ -854,7 +854,7 @@ export default function Home() {
             }}
           >
             <FaInstagram size={17} />
-            <span>@shrihittulsi on Instagram</span>
+            <span>{BRAND.instagramHandle} on Instagram</span>
           </div>
 
           <h2
@@ -883,7 +883,7 @@ export default function Home() {
             }}
           >
             <FaInstagram size={17} />
-            <span>Follow @shrihittulsi on Instagram</span>
+            <span>Follow {BRAND.instagramHandle} on Instagram</span>
           </a>
         </div>
       </section>
